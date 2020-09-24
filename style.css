@@ -1,0 +1,323 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.topbar{
+    background-color: #316DC3 ;
+    text-align: center;
+    
+}
+.social{
+    color: white;
+    flex: 1;
+    text-align: center;
+    padding-top: 15px;
+}
+.moto{
+    color: white;
+    flex: 3;
+    text-align: center;
+    padding-top: 15px;
+}
+.buttons{
+    
+    font-size: 12px;
+    flex: 1;
+    text-align: center;
+    padding-top: 15px;
+}
+.h{
+    color: green;
+    border: 1px solid green;
+}
+
+.ili>.submenu>li{
+    
+    text-align: left;
+list-style-type: none;
+}
+.ili>.submenu>li>a{
+    /* display: inline-block; */
+    background-color: white;
+    color: black;
+}
+.submenu{
+    display: none;
+}
+.ili:hover+ul>li{
+    display: block;
+}
+
+/* second nav */
+
+.header{
+    background-color: #f7f8fa;
+    text-align: center;
+}
+.introduction{
+    background-color: #f7f8fa;
+}
+.slider,.line{
+    background-color: #f7f8fa;
+
+}
+#cm4{
+    justify-content: center;
+    text-align: center;
+    padding-top: 30px;
+    display: flex;
+}
+.ili{
+    
+    
+    display: inline-block;
+    list-style: none;
+}
+li{
+    margin-right: 10px;
+    padding: 1px;
+}
+li:hover{
+    border-radius: 10px;
+    color: white;
+    background-color: #316DC3;
+}
+.im1{
+    text-align:center;
+}
+
+.quee{
+    color: white;
+    background-color: #316DC3;
+}
+.gr{
+    color: rgb(3, 161, 3);
+}
+.bl{
+    color: blue;
+}
+h1{
+    color: #316DC3;
+    text-align: center;
+   font-family:'Merriweather', serif;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    margin: 20px;
+    padding: 20px;
+    position: absolute;
+    top: 200px;
+    background-color: black;
+    border-radius: 20px;
+    
+}
+
+.lol{
+    margin-left: 500px;
+    height: 60px;
+}
+.pta{
+    height: 4px;
+    font-weight: 900;
+    color: #427900;
+    position: absolute;
+    top: 90px;
+    left: 470px;
+    text-align: center;
+
+}
+.ptaa{
+    height: 4px;
+    font-weight: 900;
+    color: #427900;
+    position: absolute;
+    top: 90px;
+    right: 520px;
+    text-align: center;
+}
+.scrollToTop{
+    font-size: 50px;
+}
+.topbutton{
+    
+    position: fixed;
+    bottom:10px;
+    right:30px;
+    font-size: 100px;
+}
+
+.intropara{
+    font-size: 20px;
+    justify-content: center;
+    background-color: #f7f8fa;
+}
+.counters{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #316DC3;
+    color: white;
+}
+.grr{
+    color:  rgb(0, 255, 0);
+}
+.tantan{
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+.moredetails{
+    background-color: #f7f8fa;
+    padding-top: 50px;
+
+}
+
+.kbh{
+    background-color: #f7f8fa;
+    text-align: center;
+}
+.goku{
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    color: #316DC3;
+    
+}
+.kbh{
+    background-color: #f7f8fa;
+    text-align: center;
+}
+.goku{
+    font-size: 25px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    color: #316DC3;
+    
+}
+#kia{
+    box-shadow: 2px 2px 10px gray;
+    padding:20px;
+    background-color: white;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+h2{
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    color: #316DC3;
+}
+.separator{
+    width:70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+.space{
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.project{
+    background-color: #f7f8fa;
+}
+.col-md-12{
+    font-size: 20px;
+}
+.further marquee{
+    height: 250px;
+    
+}
+.kuchbhi{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    color:#316DC3 ;
+}
+
+.separator2{
+    width: 60px;
+    height: 3px;
+    position: relative;
+    top: 60px;
+    left: 420px;
+    background-color: green;
+    display: block;
+}
+.separator3{
+    position: relative;
+    bottom: 3px;
+    left: 580px;
+    width: 60px;
+    height: 3px;
+    background-color: green;
+    display:block;
+}
+.hogya{
+    justify-content: center;
+    align-items: center;
+    height:170px;
+    width: 200px;
+    
+}
+.pictures{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+    justify-content: center;
+}
+.end{
+    background-color: #333;
+}
+.margaya{
+    font-size: large;
+    justify-content: center;
+    text-align: left;
+    color: white;
+    list-style: none;
+    margin-left: 50px;
+    
+}
+.kpara{
+    font-size: large;
+    justify-content: center;
+    text-align:left;
+    color: white;
+    margin-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.useful{
+    color: white;
+}
+.separator4{
+    width: 60px;
+    height: 3px;
+    background-color: green;
+    display:block;
+    position: absolute;
+    top: 51px;
+
+}
+.social2{
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+}
+#endhebhai{
+    
+    border-radius: 10px;
+    background-color: blue;
+    border: 1px solid blue;
+}
+.footer{
+    color: white;
+    background-color: #316DC3;
+}
+.topbutton{
+    
+    position: fixed;
+    bottom:10px;
+    right:30px;
+    font-size: 60px;
+}
